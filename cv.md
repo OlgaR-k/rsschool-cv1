@@ -6,3 +6,28 @@ Contact info
 -	**e-mail:** *volha.ramanchyk@gmail.com*
 -	**Telegram:** *@OlgaRomanchik*
 -   **Discord:** *Olga#6732*
+
+Summary
+------
+My goal: Learn how to create applications with high quality and functionality.
+
+Skills
+------
+
+Field	       | Technologies
+:--------------| :-----------------------
+Languages Development Process Support    |	HTML, CSS, JavaScript
+Tools	       |    Git
+IDE	           |     Visual Code Studio
+	           
+CODE EXAMPLES
+
+```
+function getParticipants(handshakes) {
+    return Math.ceil( ( ( Math.sqrt( 8 * handshakes + 1 ) + 1 ) / 2 ) );
+}
+```
+-------------
+GitHub [Git](https://github.com/OlgaR-k).
+
+
