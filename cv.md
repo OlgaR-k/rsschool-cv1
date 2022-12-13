@@ -41,5 +41,3 @@ Education
 English
 ------
 Pre-Intermediate (A2)
-
-
